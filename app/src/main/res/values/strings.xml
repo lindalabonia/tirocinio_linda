@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">tirocinio</string>
+    <string name="battery_hint">Battery</string>
+    <string name="cpu_hint">CPU</string>
+    <string name="memory_hint">Memory</string>
+    <string name="net_bandwidth_hint">Network Bandwidth</string>
+    <string name="net_signal_strength_hint">Network Signal Strength</string>
+    <string name="net_capabilities_hint">Network Capabilities</string>
+</resources>
